@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"class",
+				"classOne"
+			],
+			[
+				"c",
+				"class2"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"reru",
+				"return"
+			],
+			[
+				"auth",
+				"authorID"
+			],
+			[
+				"Array_p",
+				"array_push"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"bla",
+				"blacklistCSS"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"site",
+				"sitePath"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"fi",
+				"filesArray"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"lnst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lnsta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 222.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hooman/Desktop/engine"
+	],
+	"file_history":
+	[
+		"/home/hooman/Desktop/1.html",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/srcCompressor.php",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/classes/comp/inc/assets.php",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/classes/srcCompressor.php",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/plugin/install.php",
+		"/var/www/wordpress/.htaccess",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/plugin/options.php",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/plugin/functions.php",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/classes/comp/inc/image.php",
+		"/var/www/html/class test/2.php",
+		"/var/www/html/class test/1.php",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/classes/comp/src.php",
+		"/home/hooman/Desktop/Chart.js-master/samples/doughnut.html",
+		"/var/www/wordpress/wp-content/plugins/srcCompressor/classes/comp/cache/text-css_8d4bcab444bbf11efb1cd8b1e2b61a79",
+		"/var/www/wordpress/wp-content/plugins/srccompressor/srccompressor.php",
+		"/var/www/wordpress/wp-content/plugins/jsout/jsout.php",
+		"/var/www/html/123.php",
+		"/var/www/html/srcCompressor/classes/srcCompressor (copy).php",
+		"/var/www/html/srcCompressor/classes/comp/cache/application-javascript_dcc48fe0954781935187504393bf6cd2",
+		"/var/www/html/srcCompressor/classes/srcCompressor.php",
+		"/var/www/html/srcCompressor/classes/comp/css.php",
+		"/var/www/html/srcCompressor/demo.php",
+		"/var/www/html/test/index.php",
+		"/home/hooman/Desktop/gdsgdsf/Foundation   Welcome.html",
+		"/var/www/html/srcCompressor/classes/comp/src.php",
+		"/var/www/html/demo.php",
+		"/var/www/html/srcCompressor/classes/comp/cache/application-javascript_3b7b6f8e09221c5f811a68101167c215",
+		"/home/hooman/Desktop/dd/com.php",
+		"/var/www/html/test/index.html",
+		"/home/hooman/.config/google-chrome/Default/Web Data",
+		"/home/hooman/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/html/test.html",
+		"/var/www/html/srcCompressor/classes/old.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"moveStep",
+			"    ",
+			"red",
+			"srcCompressor-options",
+			"srcCompressor-option-level-handle",
+			"deleteOldFiles",
+			"no_exists_value",
+			"true",
+			"srcCompressor_Options_group",
+			"baw-settings-group",
+			"srcCompressor",
+			"srccompressor",
+			"tag",
+			"debug",
+			"img_quality",
+			"srccompressor",
+			"srcCompressor",
+			"srccompressor",
+			"thaccess",
+			"wp_home_path . \".htaccess\"",
+			"html_modifier",
+			"blacklist",
+			"html_modifier",
+			"blacklist",
+			"html_modifier",
+			"JS",
+			"CSS",
+			"    ",
+			"        ",
+			"         ",
+			"        ",
+			"add_action('admin_menu', 'srcCompressor_option_pages');\n",
+			"this-",
+			"'",
+			"srcCompressor",
+			"mt-top",
+			"menu-test",
+			"query2",
+			"%3D",
+			"[0] [$key]] [2]",
+			"private",
+			"classPath",
+			"$text",
+			"filesCSS",
+			"Pretty_url",
+			"delete_old_files",
+			"text",
+			"arrayjs",
+			"arrayCSS",
+			"srccompressor_",
+			"get_option",
+			"test",
+			"arrayCSS",
+			"linkfiles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"srcCompressor/classes/srcCompressor.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
